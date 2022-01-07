@@ -100,7 +100,7 @@ nav>.menu::before{
     text-decoration: none;
     color: #646464;
     font-weight: 700;
-    font-size: 1vw;
+    font-size: 18px;
     letter-spacing: 1px;
 }
 .dropdown>li::before {
@@ -188,7 +188,7 @@ nav>.menu::before{
 }
 
 .p2-2 li p{
-    font-size: 1vw;
+    font-size: 18px;
 }
 
 #p1::before{
@@ -241,6 +241,9 @@ nav>.menu::before{
     }
     .p2-2{
         width: 100%;
+    }
+    .p2-2 p,.dropdown a{
+        font-size: 16px;
     }
 }
 
